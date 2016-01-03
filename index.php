@@ -5,9 +5,9 @@
 </head>
 <body>
 <!-- Plugins Site Body Begin -->
-<?php Theme::plugins('siteBodyBegin') ?>   
+<?php Theme::plugins('siteBodyBegin') ?>
 <main>
-  <!-- Layout --> 
+  <!-- Layout -->
   <div class="header">
     <div class="grid grid-pad">
       <div class="col-s-1-1 col-m-1-1 col-w-1-1">

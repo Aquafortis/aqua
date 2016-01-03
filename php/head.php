@@ -6,7 +6,6 @@
 	Theme::css(array(
 		'aqua.css'
 	));
-
 	// Javascript from theme/js/
 	// Theme::javascript('file.name.js');
 
