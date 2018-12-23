@@ -1,7 +1,6 @@
 {
-	"theme-data":
-	{
-		"name": "Aqua",
-		"description": "Voll Seitennavigation mit großen Schriftarten."
-	}
+  "theme-data": {
+    "name": "Aqua",
+    "description": "Voll Seitennavigation mit großen Schriftarten."
+  }
 }
